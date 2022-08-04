@@ -1,0 +1,3 @@
+nMAP_test_sample.txt
+total	AA	AB	BB	Un-called
+14	1	2	2	9
